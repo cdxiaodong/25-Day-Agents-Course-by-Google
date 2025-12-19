@@ -77,7 +77,7 @@ cp .env.example .env
 | 16 | LangGraph + A2A | ✅ Done |
 | 17 | Gemini 3 Flash Thinking Levels | ✅ Done |
 | 18 | Cloud API Registry + ADK | ✅ Done |
-| 19-25 | Advanced Topics | ⏳ Pending |
+| 19-25 | Enterprise Topics | ⏳ Pending |
 
 ## Running Daily Exercises
 

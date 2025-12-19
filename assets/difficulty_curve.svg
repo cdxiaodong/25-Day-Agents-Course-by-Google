@@ -24,7 +24,7 @@
   <text x="465" y="116" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="white">Gemini 3 + Registry</text>
   <rect x="540" y="60" width="110" height="50" rx="6" fill="#6d9a7d"/>
   <text x="595" y="80" text-anchor="middle" font-family="system-ui, sans-serif" font-size="11" font-weight="bold" fill="white">Day 19-25</text>
-  <text x="595" y="96" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="white">进阶主题</text>
+  <text x="595" y="96" text-anchor="middle" font-family="system-ui, sans-serif" font-size="10" fill="white">企业级应用</text>
   <path d="M170 245 Q180 220 190 195" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M280 195 Q290 170 300 145" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
   <path d="M390 145 Q400 120 410 105" stroke="#666" stroke-width="2" fill="none" marker-end="url(#arrowhead)"/>
