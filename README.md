@@ -17,6 +17,8 @@ This is Google Cloud's **Advent of Agents 2025** program - a 25-day journey to m
 - 📚 Links to official documentation
 - 🆓 100% free
 
+> 📖 **Prerequisite**: [5-Day AI Agents Intensive Course](https://github.com/anxiong2025/5-Day-AI-Agents-Intensive-Course-with-Google) - Google's foundational course on AI Agents
+
 ### Difficulty Curve
 
 <p align="center">
