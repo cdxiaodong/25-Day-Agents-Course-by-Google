@@ -80,7 +80,8 @@ cp .env.example .env
 | 17 | Gemini 3 Flash Thinking Levels | ✅ Done |
 | 18 | Cloud API Registry + ADK | ✅ Done |
 | 19 | Register to Gemini Enterprise | ✅ Done |
-| 20-25 | Enterprise Topics | ⏳ Pending |
+| 20 | A2A Extensions: Secure Passport | ✅ Done |
+| 21-25 | Enterprise Topics | ⏳ Pending |
 
 ## Running Daily Exercises
 
